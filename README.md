@@ -30,7 +30,7 @@ docker run --name my_postgres -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=osa
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/osamaaslam86004/jwt-auth-fastAPI.git
+   git clone https://github.com/osamaaslam86004/google-auth2-fastapi.git
    cd jwt-auth-fastAPI
    ```
 
