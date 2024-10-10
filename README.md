@@ -1,4 +1,4 @@
-# JWT Authentication with FastAPI Users
+# Google OAuth2 with FastAPI Users
 
 This repository provides a Google OAuth2 implementation using the [FastAPI Users](https://github.com/fastapi-users/fastapi-users/) library. It includes CRUD operations for user management and utilizes PostgreSQL as the database, with Alembic for database migrations.
 
